@@ -1,0 +1,41 @@
+/**
+* feuille de style pour formulaire de contct lineac
+**/
+
+
+
+.lineacFormContacLabel label{
+	color:#333;
+	font-weight : 200;
+ 	margin : 1px;
+}
+
+.lineacFormContacLabel input{
+	padding : 1px !important;
+}
+
+.lineacFormContacLabel input[type="submit"]{
+	padding : 3px !important;
+}
+
+h2.widget-title{
+	margin-top:5px;
+	margin-left:10px;
+}
+
+.widget_lineac_form_c2lbab_widget h2.widget-title{
+	color : #0c0;
+}
+
+.lineacFormContacLabel input::placeholder, .lineacFormContacLabel textarea::placeholder{
+	color: #aaa;
+} 
+
+section.widget_lineac_form_c2lbab_widget{
+	border-width:2px;
+	border-color:#000;
+	border-style:solid;
+	background-color:#cce;
+	padding:2px;
+	margin-bottom:20px;
+}

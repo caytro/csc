@@ -1,0 +1,52 @@
+/*
+ Theme Name:   bam-child-csc
+ Theme URI:    https://cerclesolidaritecommune.org/
+ Description:  Bam child Theme
+ Author:       Lineac
+ Author URI:   http://lineac.fr
+ Template:     bam
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         alpha
+ Text Domain:  csc
+*/
+
+
+body{
+	color : #000000;
+}
+
+p{
+	text-align : justify;
+}
+
+h1.page-entry-title{
+	color: #ff4000;
+	font-weight: bold;
+	text-align: center;
+	font-size: 3em;
+}
+
+#top-menu > li > a{
+	font-size : 2em;
+	color : #f08000;
+}
+
+#topbar{
+	padding-top : 5px;
+	padding-bottom : 5px;
+	background-color : #ffd0a0;
+	height : auto;
+}
+
+.site-title{
+	margin-top : 20px;
+	margin-left : 20px;
+}
+
+.site-header.horizontal-style .site-description{
+	margin-left : 25px;
+	font-size : 20px;
+	font-weight : bold;
+}
